@@ -1,5 +1,5 @@
 # SQLite
-- SQLite partice
+- SQLite practice
 - Create mini databse (name/email adress/age)
 - Hungarian app
 - Different kind of fucitons
