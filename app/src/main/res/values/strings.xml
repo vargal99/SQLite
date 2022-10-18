@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SQLlite</string>
+    <string name="sqllite">SQL Lite</string>
+    <string name="nev">Név</string>
+    <string name="email">Email</string>
+    <string name="kor">Életkor</string>
+    <string name="elso">Első</string>
+    <string name="elozo">Előző</string>
+    <string name="kov">Következő</string>
+    <string name="utolso">Utolsó</string>
+    <string name="frissit">Frissités</string>
+    <string name="tisztit">Tisztít</string>
+    <string name="töröl">Törlés</string>
+    <string name="ad">Hozzáad</string>
+    <string name="noadat">Nincs adat</string>
+    <string name="uresmezo">Üres mező</string>
+</resources>
